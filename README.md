@@ -1,1 +1,3 @@
-# Proiect-Programare-web-avansat-
+# Proiect-Programare-web-avansată
+Proiectul conține un site web cu funcționalitate Task List. În acest task list îți creezi cont,sau te loghezi cu username-ul și parola, unde îți poți ține task-urile pe care dorești să le faci până la un anumit deadline. După completarea unui task, acesta va ajunge ori în coloana cu task-uri completate la timp, ori în coloana cu task-uri completate cu întârziere. Se va afișa și un mesaj de "Felicitări!" sau unul cu  "Păcat!", acest mesaj depinzând dacă numărul de task-uri completate la timp este mai mare decat numărul de task-uri completate cu întârziere.
+Pe partea de admin există și un panou de comandă, de unde adminul poate adăuga sau șterge alți admini.
